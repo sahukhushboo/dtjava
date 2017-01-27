@@ -27,7 +27,7 @@
 <body>
 <nav class="navbar navbar-inverse">
   
-  <p class="navbar-text">© All Rights Reserved</p>
+  <p class="navbar-text">© 2017 All Rights Reserved</p>
 <ul class="nav navbar-nav">
     <li><a href="./Privacy">Privacy</a></li>
     <li><a href="./Terms">Terms & Conditions</a></li>
